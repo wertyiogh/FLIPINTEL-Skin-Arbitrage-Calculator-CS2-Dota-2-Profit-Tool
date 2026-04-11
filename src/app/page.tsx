@@ -17,8 +17,8 @@ interface TradeItem {
 
 const UI_TEXT = {
   RU: {
-    title: "FLIP",
-    subtitle: "Node_Active",
+    title: "FLIP.",
+    subtitle: "Node_Active.",
     desc: "Профессиональный калькулятор арбитража и расчета цен скинов",
     injection: "Параметры_Сделки",
     asset: "Название_Предмета",
